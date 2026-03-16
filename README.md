@@ -1,6 +1,30 @@
 ### Credit-Card-Fraud-Detection-Using-Machine-Learning
 A machine learning project that detects fraudulent credit card transactions using classification algorithms and advanced evaluation metrics. The project demonstrates data preprocessing, class imbalance handling using SMOTE, model building, ROC-AUC evaluation, and feature importance analysis.
 
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![NumPy](https://img.shields.io/badge/Numpy-Numerical%20Computing-blue?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ScikitLearn-orange?logo=scikit-learn)
+![Classification](https://img.shields.io/badge/ML-Classification-red)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+#### Table of Contents :
+1. Project Overview
+2. Data Description
+3. Import Necessary Libraries
+4. Data Loading & Inspection
+5. Data Cleaning
+6. Exploratory Data Analysis (EDA)
+7. Data Preprocessing
+8. Model Development
+9. Decision Tree Model Performance & Evaluation
+10. Random Forest Model Performance & Evaluation
+11. Key Insights of the Project
+12. Conclusion
+
 #### 🚀 Project Overview
 
 Credit card fraud has become a major concern for financial institutions and online payment systems. Detecting fraudulent transactions accurately and quickly is essential to minimize financial losses and improve transaction security.
